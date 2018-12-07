@@ -1,6 +1,5 @@
 // add olympic rings code here
 size(600,600);
-background(255);
 
 noFill();
 stroke(0,0,255);
